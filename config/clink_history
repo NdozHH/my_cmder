@@ -1,0 +1,779 @@
+|CTAG_1647728229_904281421_11312_0
+|s
+|l
+|l
+|s
+|s -a
+ls -r
+💿
+|s
+|.
+|.
+|:
+|.
+|.
+|.
+|d Projects\remix-bookmarks\
+|arn dev
+hyper i hyper-pane
+^2
+|d Desktop\
+|l
+hyper i hyper-search
+hyper i hyper-highlight-active-pane
+|yper i verminal
+fsdf
+npm search hyper
+hyper i npm search hyper
+hyper i hyper-tab-icons
+cd Desktop\
+|ode
+|ls
+hyper i hyper-solarized-light
+hyper i verminal
+hyper i hyperterm-paste
+hyper install hyper-snazzy
+|s
+|l
+sdfjdjfslfjjdlfjlsf
+|s
+|l
+|lear
+D:
+|.
+|.
+|.
+|d Projects\remix-bookmarks\
+|s
+|d Projects\remix-bookmarks\
+|arn dev
+|d Projects\remix-bookmarks\
+|arn dev
+|l
+mkdir theme
+cd theme\
+|l
+|ls
+touch colors.js
+|s
+vi
+vi colors.js 
+|ls
+|ls
+fjdlfjsdjfsldfj
+|l
+npm start -R
+jfsdfjdsp
+|s
+|ls
+|d Projects\remix-bookmarks\
+|arn dev
+cd apps\web\
+yarn db:connect bookmarks-app
+|l
+|ls
+|arn dev
+fsdfsfdsf
+|s
+|ls
+|s
+|l
+|ls
+|d Projects\remix-bookmarks\
+|arn dev
+|arn global add windows-build-tools
+yarn global add windows-build-tools
+|l
+|ls
+git clone https://github.com/NdozHH/hyper.git
+|d hyper\
+|s
+yarn 
+|
+|it branch
+|arn run dev
+|ls
+|d hyper\
+|arn run dev
+|arn run app
+|l
+|ls
+|arn run app
+|ls
+|arn run dev
+hyper i hyper-material-theme
+|d Nominapp\nominapp_react\
+|s
+|
+|it branch
+|h 4061-feat-new_signup_view
+|it checkout 4061-feat-new_signup_view
+|it fetch
+git statud
+|it status
+|ls
+git rebase origin/master
+|ls
+|s
+|pm start
+|
+|it branch 
+|it checkout  4052-feat-new_signin_view
+|
+|it status
+git checkout  4052-feat-new_signin_view
+|it fetch
+ccls
+|ls
+|it branch 
+|it checkout 4052.2-feat-new_signin_view
+git push origin 4052.2-feat-new_signin_view
+|it checkout 4061-feat-new_signup_view
+|it fetch
+|it rebase origin/master 
+git push origin 4061-feat-new_signup_view
+|ls
+|it branch 
+git checkout 4052-feat-new_signin_view 
+|
+|it status 
+|it add .
+|it status 
+|it log
+|ls
+git commit --amend 
+git push origin 4052-feat-new_signin_view
+|it push -f origin 4052-feat-new_signin_view
+|ls
+|it log
+|ls
+|it push -f origin 4052-feat-new_signin_view
+|it fetch
+|it rebase origin/master 
+|it log
+|ls
+|it push -f origin 4052-feat-new_signin_view
+git push -f origin/4052-feat-new_signin_view
+|it push -f origin 4052-feat-new_signin_view
+git push --force origin 4052-feat-new_signin_view
+|ls
+git pull --rebase origin 4052-feat-new_signin_view 
+|it status
+|it add .
+git rebase --continue 
+|ls
+|it log
+git log --no-decorate
+|ls
+|it log --oneline
+|it rebase origin/master 
+|it log --oneline
+|ls
+git rebase -i head~2
+|it log --oneline
+git push -f origin 4052-feat-new_signin_view 
+|ls
+|it branch 
+git checkout 4061-feat-new_signup_view
+|it fetch
+|it rebase origin/master 
+git checkout -b 4061-feat-new_forgot_password_view
+|ls
+git stash 
+git stash apply 
+|lear
+git status 
+|it add .
+git commit -m "feat(front): 4064 new reset password views"
+git commit -m "feat(front): #4064 new reset password views"
+|lear
+|it log --oneline
+|ls
+git push origin 4061-feat-new_forgot_password_view
+|it branch
+|it fetch
+|ls
+git branch
+git checkout 3935.5-feat-add_extra_worker_payment
+npm strat
+|pm start
+|l
+|ls
+npm start
+git checkout 4052-feat-new_signin_view
+|it status
+git fetch
+git rebase origin/master 
+|ls
+git log --oneline
+|ls
+git log
+|ls
+|it add .
+|it status
+|it commit --amend
+|it push -f origin 4052-feat-new_signin_view
+git status
+git add .
+|it commit --amend
+git push -f origin 4052-feat-new_signin_view
+git branch 
+git checkout 4052.2-feat-new_signin_view
+|l
+clear
+gl
+|.
+cls
+git rev-parse --symbolic-full-name --abbrev-ref HEAD
+|n
+|n
+|n
+|d Nominapp\nominapp_react\
+bn
+|d Nominapp\nominapp_react\
+|ther
+|d Nominapp\nominapp_react\
+|ther
+|d Nominapp\nominapp_react\
+|ther
+|d Nominapp\nominapp_react\
+other
+|
+|
+|s
+|
+|l
+|s
+|s
+|l
+|d Nominapp\nominapp_react\
+|d Nominapp\nominapp_react\
+|s
+|
+|l
+|
+|
+| origin/master
+|l
+|
+| origin/master
+|
+c
+|l
+r origin master
+| origin/master 
+|d Nominapp\nominapp_react\
+| origin/master 
+|s
+|
+| .
+|
+| --amend
+git commit --amend
+| --continue 
+c --amend 
+|
+|l
+|
+|l
+|
+| origin/master
+|
+|l
+| -i head~2
+|
+| --amend -m "feat(front): 4052.2 new signin view"
+|
+| --amend -m "feat(front): 4052.2 new signin view"
+|d Nominapp\nominapp_react\
+| --amend -m "feat(front): 4052.2 new signin view"
+| --amend -m "feat(front): 4052.2 create signin view"
+|
+|l
+c --amend -m "feat(front): 4052.2 create signin view"
+c --amend -m "feat(front): 4052.2 new signin view" --no-verify 
+|
+|l
+|s
+|
+|
+|l
+| -f origin 4052.2-feat-new_signin_view 
+git push --set-upstream origin 4052.2-feat-new_signin_view
+git push -f --set-upstream origin 4052.2-feat-new_signin_view
+| .
+| --amend
+| --amend --no-verify 
+|
+|l
+| -f origin 4052.2-feat-new_signin_view 
+|d Nominapp\nominapp_react\
+|s
+|d Nominapp\nominapp_react\
+|l
+| -f origin 4052.2-feat-new_signin_view 
+|
+ch 4002-fix-copy_special_configuration_ep 
+|
+|l
+|
+ch 3935.5-feat-add_extra_worker_payment 
+|
+|h master
+| -D 3935.5-feat-add_extra_worker_payment
+|
+|h 3935.5-feat-add_extra_worker_payment
+|l
+ch 365-fix-rollbar_issues_undefined
+|
+| origin/master 
+|
+|l
+p -f origin 365-fix-rollbar_issues_undefined 
+|
+ch 4061-feat-new_forgot_password_view 
+|
+|l
+b 4061-feat-new_forgot_password_view 4064-feat-new_forgot_password_view
+b 4064-feat-new_forgot_password_view 4061-feat-new_forgot_password_view
+|
+b -m 4064-feat-new_forgot_password_view
+b -D 4061-feat-new_forgot_password_view
+|h master
+b -D 4061-feat-new_forgot_password_view 
+|
+| -D 4064-feat-new_forgot_password_view 
+|l
+|
+ch 4061-feat-new_forgot_password_view
+b -m "4061-feat-new_forgot_password_view"
+b -m "4064-feat-new_forgot_password_view"
+|l
+|
+|
+r origin/master
+| .
+| --continue 
+|
+|l
+| -f origin 4064-feat-new_forgot_password_view 
+|l
+|
+ch -b 4067-feat-new_onboarding_view
+|l
+|d hyper\
+|s
+cd app\
+|s
+|s -a
+|.
+|s -a
+|d .hyper_plugins\
+|l
+|s
+cd lo
+|d local\
+|s
+|l
+|it clone https://github.com/NdozHH/ndozhh-hyper-theme.git
+|s
+|d ndozhh-hyper-theme\
+|s
+git remote -v
+git push origin master 
+|l
+cd hyper\.hyper_plugins\local\ndozhh-hyper-theme\
+|l
+npm init -y
+|l
+|s
+|.
+|.
+|.
+|s
+|l
+|arn run dev
+|arn run app
+|arn run app
+|arn run app
+|l
+|arn run app
+|arn run app
+|l
+|arn run app
+|arn run app
+|l
+|arn run app
+|d .hyper_plugins\
+|s
+|.
+rm package.json 
+rm -rf cache\ node_modules\
+|l
+|s
+|.
+|l
+|arn run app
+|arn run app
+|arn run app
+ssdsdsdsddsdsd
+node
+|l
+dfs
+|l
+|arn run app
+|arn run dev
+|arn run dev
+|l
+|arn run app
+|s
+|d hyper\
+|arn run dev
+|arn run app
+|arn run dev
+|arn run app
+|arn run dev
+|arn run app
+|d Nominapp\nominapp_react\
+|s
+|l
+|l
+|.
+cd Nominapp\nominapp_react\
+|s
+|l
+svgo.cmd accountant_o.svg businessman_o.svg  employee_o.svg  other_role_o.svg  outsourcer_o.svg payroll_assistant_o.svg  student_o.svg  -o /files
+svgo.cmd accountant_o.svg businessman_o.svg  employee_o.svg  other_role_o.svg  outsourcer_o.svg
+svgo.cmd accountant_o.svg businessman_o.svg  employee_o.svg  other_role_o.svg  outsourcer_o.svg payroll_assistant_o.svg  student_o.svg  -o 
+svgo.cmd accountant_o.svg businessman_o.svg  employee_o.svg  other_role_o.svg  outsourcer_o.svg payroll_assistant_o.svg  student_o.svg  
+|
+| .
+|
+|l
+|
+c -m "feat(front): #4067 new onboarding view"
+|l
+|
+| origin/master 
+|
+|l
+| -f origin 4067-feat-new_onboarding_view 
+|h 4052.2-feat-new_signin_view
+|
+| .
+|
+|
+|l
+| --amend
+c -amend
+c --amend -m "feat(front): 4052.2 new signin view"
+|
+c --amend --no-verify 
+|l
+|
+| origin/master 
+|
+|l
+| -f origin 4052.2-feat-new_signin_view 
+|
+| -D 4008-fix-company_name_mobile_dropdown
+|h 4008-fix-company_name_mobile_dropdown
+|s
+ch 4002-fix-copy_special_configuration_ep
+|s
+| -D 3935.5-feat-add_extra_worker_payment
+|
+|l
+|h 3935.5-feat-add_extra_worker_payment
+|
+|h 4052.2-feat-new_signin_view
+|
+| origin/master 
+|h 4061-feat-new_signup_view
+|
+| origin/master 
+| .
+| --continue 
+|l
+|
+|l
+|
+r 4052.2-feat-new_signin_view
+| .
+| --continue 
+|
+|h master
+b -D 4061-feat-new_signup_view
+|l
+|
+ch 4061-feat-new_signup_view
+| origin/master 
+| .
+| --continue 
+|
+|l
+| -f origin 4061-feat-new_signup_view 
+|
+|h 4064-feat-new_forgot_password_view
+|
+| origin/master 
+|
+| -i head~4
+|
+|l
+|
+|
+| origin/master 
+| -f origin 4064-feat-new_forgot_password_view 
+|l
+|
+|h 4067-feat-new_onboarding_view 
+|
+| origin/master 
+|
+r -i head~5
+|
+|l
+| origin/master 
+|
+| -f origin 4067-feat-new_onboarding_view 
+|h master
+|it pull origin master 
+|l
+|l
+|s
+b -D 3935.5-feat-add_extra_worker_payment
+|
+ch 3935.5-feat-add_extra_worker_payment
+b -D 4052.2-feat-new_signin_view
+|
+ch 4052.2-feat-new_signin_view
+|
+c --amend -m "feat(front): #4052.2 new signin view"
+|
+|l
+|
+| origin/master 
+p -f origin 4052.2-feat-new_signin_view 
+|s
+|h master
+git pull origin master 
+ch -b 4071-fix-format_retention_date
+|
+|l
+|
+| .
+|
+c -m "fix(front): #4071 format retention date"
+|l
+|
+| -f origin 4071-fix-format_retention_date 
+|
+| origin/master 
+p -f origin 4071-fix-format_retention_date 
+|l
+b -D 4008-fix-company_name_mobile_dropdown
+|
+ch 4008-fix-company_name_mobile_dropdown
+|s
+|
+ch 4061-feat-new_signup_view 
+|
+| origin/master 
+|s
+| .
+| --continue 
+|l
+|
+|l
+|
+| origin/master 
+|
+|l
+r -i head~2
+|
+|l
+|
+|
+|
+|l
+|
+| origin/master 
+| -f origin 4061-feat-new_signup_view 
+|
+|l
+git reset --soft head~1
+|
+|
+| .
+|
+c -m "feat(front): #4061 new signup view"
+|
+|l
+|
+| origin/master 
+p -f origin 4061-feat-new_signup_view 
+|l
+|
+ch 4064-feat-new_forgot_password_view 
+|
+|
+|
+|l
+| origin/master 
+| .
+| --continue 
+|
+r -i head~4
+|l
+|
+|l
+|
+|
+|
+| origin/master 
+|
+|l
+ch master
+b -D 4064-feat-new_forgot_password_view 
+|
+ch 4064-feat-new_forgot_password_view
+|
+|l
+|
+| origin/master 
+| .
+| --continue 
+|l
+|
+|
+r -i head~3
+|l
+|
+|
+|l
+|
+| origin/master 
+| -f origin 4064-feat-new_forgot_password_view 
+|
+| .
+|
+|
+|l
+| --amend
+|
+|l
+| -f origin 4064-feat-new_forgot_password_view 
+| --amend
+| -f origin 4064-feat-new_forgot_password_view 
+|
+| .
+| --amend
+p -f origin 4064-feat-new_forgot_password_view 
+|l
+b
+ch 4067-feat-new_onboarding_view 
+f
+r origin/master 
+|
+| .
+r --continue 
+|l
+|
+|l
+|
+l
+p -f origin 4067-feat-new_onboarding_view 
+|d hyper\
+|arn run dev
+|arn run app
+|s
+|s
+|l
+|s
+|s
+|l
+|
+|l
+|s
+|s
+cd hyper\
+yarn run dev
+|arn run app
+yarn run app
+|s
+|l
+|s
+|s
+|l
+|s
+|d Projects\remix-bookmarks\
+|s
+|l
+|arn dev
+|l
+|.
+|s
+cd "Testing JavaScript Course\
+|s
+cd react-testing-library-course\
+|s
+npm test
+|d Projects\remix-bookmarks\
+ns
+yarn dev
+|l
+|d .hyper_plugins\
+|d local\
+|s
+|d ndozhh-hyper-theme\
+|
+| .
+|
+c -m "feat: add theme config"
+| -f origin master 
+|l
+|
+| .
+c --amend
+p -f origin master 
+|.
+|.
+|.
+|.
+C:
+cd Users\Juan\
+|s -a
+cd AppData\
+cd Roaming\Hyper\
+|s
+ls -a
+cd .hyper_plugins\
+|s
+cd local\
+|s
+git clone https://github.com/NdozHH/ndozhh-hyper-theme.git
+|s
+cd ndozhh-hyper-theme\
+|s
+|.
+|.
+|.
+e.
+cd Projects\remix-bookmarks\
+|
+|.
+|s
+cd bookmark-app-test\
+|s
+|
+a .
+s
+|s
+git clone https://github.com/NdozHH/cmder.git
+cd cmder
+ls
+..
+rm -rf cmder
+cl
+git clone https://github.com/NdozHH/my_cmder.git
